@@ -25,7 +25,7 @@ export class FeedPage {
   }
 
   ionViewDidLoad() {
-    this.sum(1, 2);
+    //this.sum(1, 2);
     //console.log('ionViewDidLoad FeedPage');
   }
 
